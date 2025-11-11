@@ -1,0 +1,5 @@
+{
+  "name": "FlavorVerse - Recipe Sharing Platform",
+  "description": "A modern, full-stack inspired Recipe Sharing Web Application where users can discover, create, and share their favorite recipes. This platform features a clean, responsive UI, recipe categorization, search functionality, and a simulated user authentication system.",
+  "requestFramePermissions": []
+}
